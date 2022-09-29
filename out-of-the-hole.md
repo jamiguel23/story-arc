@@ -9,7 +9,7 @@ Our story begins with... Looking at canvas for day 3
 
 
 ## Chapter 3: Hardship
-
+There was an enemy
 
 ## Chapter 4: Recovery(Binyam)
 
