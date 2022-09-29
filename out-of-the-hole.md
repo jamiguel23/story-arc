@@ -6,7 +6,7 @@ Our story begins with... Looking at canvas for day 3
 
 
 ## Chapter 2: Quest
-
+Our quest was to find how to fork and do pull requests
 
 ## Chapter 3: Hardship
 
