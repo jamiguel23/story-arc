@@ -12,7 +12,7 @@ Our story begins with... Looking at canvas for day 3
 
 
 ## Chapter 4: Recovery
-
+After a long day we rest
 
 ## Chapter 5: Happily ever after
 
