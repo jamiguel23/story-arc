@@ -4,6 +4,8 @@
 
 Our story begins with... Looking at canvas for day 3
 
+This edit is on the local side of my computer
+
 
 ## Chapter 2: Quest
 Our quest was to find how to fork and do pull requests
