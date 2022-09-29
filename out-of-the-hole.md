@@ -9,7 +9,7 @@ Our story begins with... Looking at canvas for day 3
 Our quest was to find how to fork and do pull requests
 
 ## Chapter 3: Hardship
-There was an enemy
+Adversity builds Character
 
 ## Chapter 4: Recovery(Binyam)
 
