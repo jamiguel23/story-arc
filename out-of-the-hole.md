@@ -2,7 +2,7 @@
 
 ## Chapter 1: Characters
 
-Our story begins with...
+Our story begins with... Looking at canvas for day 3
 
 
 ## Chapter 2: Quest
